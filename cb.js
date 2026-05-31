@@ -204,7 +204,7 @@
     '#cb-btn-sel{background:#fff;color:#374151;border:2px solid #d1d5db;display:none}',
     '#cb-btn-sel.on{display:inline-block}',
     '#cb-btn-cust{background:#fff;color:#374151;border:2px solid #d1d5db}',
-    '#cb-btn-all{background:#1d4ed8;color:#fff;border:2px solid #1d4ed8}',
+    '#cb-btn-all{background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 60%,#1e40af 100%);color:#fff;border:2px solid #1d4ed8;text-shadow:0 1px 2px rgba(0,0,0,.15)}',
 
     /* Powered by */
     '#cb-powered{font-size:11px;color:#9ca3af;text-align:center;padding:6px 0 2px}',
